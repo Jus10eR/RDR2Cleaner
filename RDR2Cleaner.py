@@ -1,6 +1,6 @@
 import os
 import shutil
-#test
+
 game_exe = "rdr2.exe"
 current_folder = os.path.dirname(os.path.abspath(__file__))  # Get the current script's folder
 destination_folder = os.path.join(current_folder, "storedMods")
